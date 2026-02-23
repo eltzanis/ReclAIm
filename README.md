@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="reclaim_logo.png" alt="ReclAIm Logo" width="350"/>
+  <img src="reclaim_logo.png" alt="ReclAIm Logo" width="300"/>
 </p>
 
 
